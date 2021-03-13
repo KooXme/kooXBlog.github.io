@@ -4,7 +4,7 @@ You can use the [editor on kooXMovie](https://github.com/KooXme/blog-kooXMovie.g
 
 Whenever you commit to this repository, GitHub Pages will run [kooXMovie](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Blog 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
