@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [kooXMovie](https:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```kooXMovie
 Syntax highlighted code block
 
 # Header 1
