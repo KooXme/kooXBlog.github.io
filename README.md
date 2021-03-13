@@ -1,2 +1,2 @@
-# kooXMovie-App
+# kooXMovie
 #News
