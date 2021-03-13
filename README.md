@@ -1,1 +1,1 @@
-# kooXMovie✴️Blog
+# kooXMovie
