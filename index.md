@@ -1,5 +1,9 @@
 ## kooXMovie | kooXBlog
 
+#If you want to embed images, this is how you do it:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 You can use the [editor on kooXMovie](https://github.com/KooXme/blog-kooXMovie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [kooXMovie](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
